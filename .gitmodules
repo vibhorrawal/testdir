@@ -1,0 +1,6 @@
+[submodule "Arduino"]
+	path = Arduino
+	url = git@github.com:isumit19/Arduino.git
+[submodule "git-test"]
+	path = git-test
+	url = git@github.com:vibhorrawal/git-test.git
