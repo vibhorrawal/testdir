@@ -4,3 +4,6 @@
 [submodule "git-test"]
 	path = git-test
 	url = git@github.com:vibhorrawal/git-test.git
+[submodule "Transmitter-Driven-Manual-Bot"]
+	path = Transmitter-Driven-Manual-Bot
+	url = git@github.com:isumit19/Transmitter-Driven-Manual-Bot.git
